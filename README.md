@@ -3,6 +3,9 @@ A collaborative project between Jiadi Luo, Adrian Marin Estrada, Jay Esquivel, K
 
 The project, written in Java, uses sockets to allow communication between the clients and a server over a TCP connection. The GUI is implemented using the Java Swing library.
 
+### Demo
+https://drive.google.com/file/d/1V-U8bwtCIGmnlPYW5cCZNUvsP1jTNSAc/view?usp=sharing
+
 ### Game Description 
 Divide and Conquer is a real-time multiplayer game featuring an interactive nxn grid board (by default 4x4) where players compete to competitively conquer lockable cells via colouring. The objective of the players is to fill as many cells as possible with their respective colours (Client 1 - Pink and Client 2 - Gray) while preventing the opponent from claiming more cells. The player with the most filled cells at the end wins. 
 
