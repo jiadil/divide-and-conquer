@@ -3,6 +3,9 @@ A collaborative project between Jiadi Luo, Adrian Marin Estrada, Jay Esquivel, K
 
 The project, written in Java, uses sockets to allow communication between the clients and a server over a TCP connection. The GUI is implemented using the Java Swing library.
 
+### Details
+See [Final Report.pdf](https://github.com/jiadil/divide-and-conquer/blob/main/Final%20Report.pdf) for more details.
+
 ### Demo
 https://drive.google.com/file/d/1V-U8bwtCIGmnlPYW5cCZNUvsP1jTNSAc/view?usp=sharing
 
